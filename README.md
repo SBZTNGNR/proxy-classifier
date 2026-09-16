@@ -16,7 +16,7 @@ Cada etapa guarda su resultado en un archivo separado, así podés correr el pip
 ## Uso
 
 ```bash
-python Listas_Proxy.py
+python3 Listas_Proxy.py
 ```
 
 El script muestra un menú interactivo:
